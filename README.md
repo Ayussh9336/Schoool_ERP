@@ -62,5 +62,4 @@ school-management/
    git clone https://github.com/your-username/school-management.git
    cd school-management
 npm install
-npm start
-npm run build
+npm run dev
